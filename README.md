@@ -1,4 +1,4 @@
-<img width="1717" height="707" alt="image" src="https://github.com/user-attachments/assets/7f9416cc-20c0-46ef-90a2-07f47af64ef5" /># mnist-cnn-vs-dense
+
 Deep learning project using TensorFlow for handwritten digit classification (MNIST), comparing Dense and CNN models with performance evaluation.
 🧠 MNIST CNN vs Dense
 
